@@ -1,0 +1,13 @@
+Organ,All Genders,Male,Female
+Kidney,"89,487","55,529","33,967"
+Liver,"9,510","5,602","3,908"
+Pancreas,860,426,434
+Kidney / Pancreas,"2,181","1,182",999
+Heart,"3,410","2,574",836
+Lung,912,441,471
+Heart / Lung,42,27,15
+Intestine,192,97,95
+Abdominal Wall,2,2,0
+VCA - head and neck,3,2,1
+VCA - upper limb,3,3,0
+VCA - uterus,9,0,9
